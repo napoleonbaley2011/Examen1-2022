@@ -1,0 +1,13 @@
+C:\Users\Usuario\Desktop\Informatica Segundo Semestre 2021\INF-319\Pregunta 1\Pregunta 1\Pregunta 1\bin\Debug\Pregunta 1.exe.config
+C:\Users\Usuario\Desktop\Informatica Segundo Semestre 2021\INF-319\Pregunta 1\Pregunta 1\Pregunta 1\bin\Debug\Pregunta 1.exe
+C:\Users\Usuario\Desktop\Informatica Segundo Semestre 2021\INF-319\Pregunta 1\Pregunta 1\Pregunta 1\bin\Debug\Pregunta 1.pdb
+C:\Users\Usuario\Desktop\Informatica Segundo Semestre 2021\INF-319\Pregunta 1\Pregunta 1\Pregunta 1\bin\Debug\Pregunta 1.xml
+C:\Users\Usuario\Desktop\Informatica Segundo Semestre 2021\INF-319\Pregunta 1\Pregunta 1\Pregunta 1\obj\Debug\Pregunta 1.vbproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Informatica Segundo Semestre 2021\INF-319\Pregunta 1\Pregunta 1\Pregunta 1\obj\Debug\Pregunta 1.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\Informatica Segundo Semestre 2021\INF-319\Pregunta 1\Pregunta 1\Pregunta 1\obj\Debug\Pregunta_1.Form1.resources
+C:\Users\Usuario\Desktop\Informatica Segundo Semestre 2021\INF-319\Pregunta 1\Pregunta 1\Pregunta 1\obj\Debug\Pregunta_1.Resources.resources
+C:\Users\Usuario\Desktop\Informatica Segundo Semestre 2021\INF-319\Pregunta 1\Pregunta 1\Pregunta 1\obj\Debug\Pregunta 1.vbproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Informatica Segundo Semestre 2021\INF-319\Pregunta 1\Pregunta 1\Pregunta 1\obj\Debug\Pregunta 1.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Informatica Segundo Semestre 2021\INF-319\Pregunta 1\Pregunta 1\Pregunta 1\obj\Debug\Pregunta 1.exe
+C:\Users\Usuario\Desktop\Informatica Segundo Semestre 2021\INF-319\Pregunta 1\Pregunta 1\Pregunta 1\obj\Debug\Pregunta 1.xml
+C:\Users\Usuario\Desktop\Informatica Segundo Semestre 2021\INF-319\Pregunta 1\Pregunta 1\Pregunta 1\obj\Debug\Pregunta 1.pdb
