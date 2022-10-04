@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AR9izmiuZd74jZJjKGypA1xYTmq0r9jM+a4fDdsH1c4tEoqji/byn9jpNH1f/T8jZWEAigRuiVNKkudA8IwlmA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\Informatica Segundo Semestre 2021\\INF-319\\Pregunta 5\\Pregunta5\\Pregunta5\\Pregunta5.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\fsharp.core\\6.0.5\\fsharp.core.6.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
